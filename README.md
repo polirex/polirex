@@ -20,6 +20,19 @@
 
 <sub>hand-tuned, not auto-generated. the interesting repos are private.</sub>
 
+<br/>
+
+<table>
+  <tr>
+    <td align="right"><sub>writes</sub></td>
+    <td>Python · SQL · Terraform · Bash</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>reviews</sub></td>
+    <td>Ruby · Go · TypeScript · Swift/Kotlin</td>
+  </tr>
+</table>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
