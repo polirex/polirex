@@ -24,6 +24,12 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kimberly-k-b1a0a5150/">
+    <img src="assets/linkedin.svg" width="168" alt="LinkedIn: say hi" />
+  </a>
+</p>
+
 <!-- footer image slot:
 <p align="center">
   <img src="assets/footer.png" width="420" alt="" />
